@@ -9,5 +9,5 @@ setup(
     author='kael',
     author_email='',
     description='',
-    install_requirements=['text_to_speech'],
+    install_requires=['text_to_speech'],
 )
